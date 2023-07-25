@@ -1,0 +1,7 @@
+{
+  "ignoreTestFiles": "*.js",
+  "testFiles": "**/*.{feature,features}",
+  "env": {
+    "TAGS": "not @ignore"
+}
+}
